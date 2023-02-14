@@ -1,5 +1,5 @@
 # EatYourSheep
-# 02-09-2023
+# 02-09-2023, updated 02-13-2023.
 # code.py
 
 import time
@@ -8,7 +8,6 @@ from adafruit_circuitplayground import cp
 # Color variables.
 RED = (50, 0, 0)
 GREEN = (0, 50, 0)
-WHITE = (50, 50, 50)
 LED_OFF = (0, 0, 0)
 
 
